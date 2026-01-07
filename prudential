@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Audi – Agen Asuransi Profesional</title>
+  <meta name="description" content="Website resmi Audi, agen asuransi profesional. Konsultasi asuransi kesehatan, jiwa, dan perencanaan keuangan." />
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.6;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(135deg, #0f766e, #0d9488);
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin-bottom: 10px;
+    }
+    header p {
+      max-width: 700px;
+      margin: auto;
+    }
+    .cta-btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #facc15;
+      color: #000;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 6px;
+    }
+    section {
+      padding: 50px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+    .card {
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 20px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    }
+    footer {
+      background: #f1f5f9;
+      padding: 30px 20px;
+      text-align: center;
+      font-size: 14px;
+    }
+    footer a {
+      color: #0f766e;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HERO -->
+  <header>
+    <h1>Audi – Agen Asuransi Profesional</h1>
+    <p>Membantu semua kalangan — lajang, keluarga muda, hingga orang tua — mendapatkan perlindungan finansial yang tepat, transparan, dan sesuai kebutuhan hidup masing-masing.</p>
+    <a href="#kontak" class="cta-btn">Konsultasi Gratis</a>
+  </header>
+
+  <!-- TENTANG -->
+  <section id="tentang">
+    <h2>Tentang Saya</h2>
+    <p>
+      Saya Audi, agen asuransi profesional yang percaya bahwa asuransi bukan sekadar produk, tapi keputusan penting dalam hidup.
+      Saya membantu semua kalangan — mulai dari pekerja muda, keluarga, hingga orang tua — memahami risiko finansial dan memilih proteksi yang benar-benar dibutuhkan.
+    </p>
+    <p>
+      Pendekatan saya mengutamakan edukasi, transparansi, dan pendampingan jangka panjang, termasuk saat proses klaim.
+    </p>
+  </section>
+
+  <!-- LAYANAN -->
+  <section id="layanan">
+    <h2>Layanan Asuransi</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>Asuransi Kesehatan</h3>
+        <p>Perlindungan biaya rumah sakit, rawat inap, ICU, dan tindakan medis besar agar kondisi keuangan tetap aman saat sakit.</p>
+        <p><em>Cocok untuk semua usia.</em></p>
+      </div>
+      <div class="card">
+        <h3>Asuransi Jiwa</h3>
+        <p>Memberikan perlindungan finansial bagi keluarga jika terjadi risiko pada pencari nafkah.</p>
+        <p><em>Penting untuk yang sudah berkeluarga atau punya tanggungan.</em></p>
+      </div>
+      <div class="card">
+        <h3>Perencanaan Keuangan</h3>
+        <p>Kombinasi proteksi dan perencanaan jangka panjang sesuai tujuan hidup Anda.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ALASAN -->
+  <section id="alasan">
+    <h2>Kenapa Konsultasi dengan Saya?</h2>
+    <ul>
+      <li>Penjelasan polis jujur, transparan, dan mudah dipahami</li>
+      <li>Rekomendasi berdasarkan kebutuhan, bukan sekadar premi</li>
+      <li>Pendampingan jangka panjang termasuk proses klaim</li>
+      <li>Terdaftar resmi dan mengikuti standar perusahaan asuransi</li>
+    </ul>
+  </section>
+
+  <!-- KONTAK -->
+  <section id="kontak">
+    <h2>Kontak & Konsultasi Gratis</h2>
+    <p>
+      Bingung mulai dari mana? Konsultasi gratis dan tanpa kewajiban membeli.
+    </p>
+    <p>
+      📱 WhatsApp: <strong><a href="https://wa.me/628xxxxxxxxxx">Klik untuk Chat</a></strong><br />
+      📧 Email: <strong>emailanda@email.com</strong><br />
+      📷 Instagram: <a href="#">@instagramanda</a>
+    </p>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2026 Audi – Agen Asuransi | Edukasi • Proteksi • Kepercayaan</p>
+    <p>Disclaimer: Produk asuransi tunduk pada syarat dan ketentuan polis.</p>
+  </footer>
+
+</body>
+</html>
